@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "expo": "~36.0.0",
-    "factom-harmony-integrate": "git+ssh://git@github.com/FactomProject/factom-harmony-integrate#v1.2.0",
+    "factom-harmony-integrate": "git+ssh://git@github.com/FactomProject/factom-harmony-integrate#v1.3.0-rc1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
